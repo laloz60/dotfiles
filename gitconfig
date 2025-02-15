@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laloz60@gmail.com
+	name = Gerardo Carreno
